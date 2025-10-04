@@ -1,0 +1,17 @@
+[
+    {
+        "column_name": "Year",
+        "data_type": "int",
+        "meaning": "Year of record"
+    },
+    {
+        "column_name": "Primary_Enrollment",
+        "data_type": "float",
+        "meaning": "Primary school enrollment (% gross)"
+    },
+    {
+        "column_name": "GDP_per_Capita",
+        "data_type": "float",
+        "meaning": "GDP per capita (current US$)"
+    }
+]
